@@ -1,4 +1,4 @@
-COVID-Announcement-Twitter dataset contains different strategies announced by different companies on Twitter for their response to the COVID-19. There are 937 announcements from 51 companies. Each announcement consist of information including
+COVID-Announcement-Twitter dataset contains different strategies announced by different companies on Twitter for their response to the COVID-19. There are 937 announcements from 51 tech companies. Each announcement consist of information including
 
  - Date of announcement
  - Company's username
