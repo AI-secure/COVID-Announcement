@@ -1,24 +1,14 @@
-COVID-Announcement dataset contains different strategies announced by different companies on Twitter for their response to the COVID-19 as well as these companies' stock prices. 
-
-For the announcement part, there are 937 announcements from 51 tech companies. Each announcement consist of information including
+COVID-Announcement-Twitter dataset contains announcements published by different companies on Twitter for their response to the COVID-19 pandemic from 1/1/2020-5/12/2020. There are in total 937 announcements from 51 tech companies. Each announcement consists of following information
 
  - Date of announcement
- - Company's username
+ - Twitter username of the company
  - Announcement
  - URL
  - Number of replies
  - Number of retweets
- - Number of favorites
+ - Number of likes
  - Mentions
  
- For the stock price part, there are 39 companies' stock prices from 2020/01/01 to 2020/05/12. For each company, the stock prices include
+ The dataset is built from [twitter.com](https://twitter.com/) and all copyrights of the data belong to [twitter.com](https://twitter.com/).
  
-  - Date
-  - Open price
-  - Close price
-  - High
-  - Low
-  - Adj Close
-  - Volume
-
-The dataset is built from [Twitter](https://twitter.com/) and [Yahoo Finance](https://finance.yahoo.com/). All copyrights of the data belong to these websites.
+ The stock prices of these companies on corresponding days are also collected for analysis.
